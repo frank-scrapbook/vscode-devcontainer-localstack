@@ -1,0 +1,5 @@
+# aws directory and awscliv2.zip
+aws*
+
+#venv (virtualenv) for python
+venv*
