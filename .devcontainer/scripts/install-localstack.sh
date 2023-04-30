@@ -63,8 +63,8 @@ function install_localstack_and_awslocal() {
 
 function add_alias_for_awslocal() {
   echo "Adding alias for awslocal..."
-  echo "alias aws='awslocal'" >>~/.bashrc
-  source ~/.bashrc
+  echo "alias aws='awslocal'" >> ~/.bashrc
+  # source ~/.bashrc
 
   # echo "alias aws='awslocal'" >> /root/.bashrc
   # source /root/.bashrc

@@ -4,7 +4,8 @@ set -euo pipefail  # Enable error checking
 
 # Define an array of scripts to call
 scripts=(
-  "install-localstack.sh"
+  # "install-localstack.sh"
+  install-localstack-attempt2.sh
 )
 
 # Loop over the array of scripts and call each one
