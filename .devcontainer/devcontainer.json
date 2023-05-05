@@ -5,8 +5,7 @@
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/base:jammy",
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/localstack:2.0.18": {},
-		"ghcr.io/devcontainers/features/docker-in-docker:2": {}
+		"ghcr.io/devcontainers-contrib/features/localstack:2.0.19": {}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
